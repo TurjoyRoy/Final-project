@@ -18,7 +18,6 @@ namespace DAL
 
         public static IRepo<Note, int, bool> NoteData()
         {
-
             return new NoteRepo();
         }
         public static IStatus<Application, int> StatusData()
