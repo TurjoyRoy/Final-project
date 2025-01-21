@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CA848-EE08-411C-8A19-569BBBDADC24}|Job Application Tracker\\Job Application Tracker.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\job application tracker\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CA848-EE08-411C-8A19-569BBBDADC24}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CA848-EE08-411C-8A19-569BBBDADC24}|Job Application Tracker\\Job Application Tracker.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\job application tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CA848-EE08-411C-8A19-569BBBDADC24}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\bll\\dtos\\appstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\appstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\bll\\dtos\\appstatusesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\appstatusesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\final project\\job application tracker\\bll\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\ef\\tablemodels\\appstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\appstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\interfaces\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\ef\\jatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\jatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\ef\\tablemodels\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\ef\\tablemodels\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\repos\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\bll\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\bll\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\repos\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE28A9-F194-4149-9415-0A8E6DA8140E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CA848-EE08-411C-8A19-569BBBDADC24}|Job Application Tracker\\Job Application Tracker.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\job application tracker\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A2CA848-EE08-411C-8A19-569BBBDADC24}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C634D86D-DCB6-47BB-AEAB-0AE326994D4E}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JATContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\JATContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\JATContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\JATContext.cs",
+              "RelativeToolTip": "DAL\\EF\\JATContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:07:04.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "BLL\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:06:36.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\NoteService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\Services\\NoteService.cs",
+              "RelativeToolTip": "BLL\\Services\\NoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:06:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\TableModels\\Application.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Application.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\TableModels\\Application.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:44:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\TableModels\\Note.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Note.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\TableModels\\Note.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:46:10.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Interfaces\\IStatus.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IStatus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Interfaces\\IStatus.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:44:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppStatusesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\AppStatusesDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AppStatusesDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\AppStatusesDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AppStatusesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:21:08.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\AppStatusDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AppStatusDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\AppStatusDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AppStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:51:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:11:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\Job Application Tracker\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\Job Application Tracker\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Job Application Tracker\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:08:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\Job Application Tracker\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\Job Application Tracker\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Job Application Tracker\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:21:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Repos\\ApplicationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ApplicationRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Repos\\ApplicationRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ApplicationRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:44:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\ApplicationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\ApplicationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:08:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\NoteDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\NoteDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\DTOs\\NoteDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\NoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:08:58.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\TableModels\\AppStatus.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\AppStatus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\EF\\TableModels\\AppStatus.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\AppStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:11:32.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:36:21.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Repos\\NoteRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\NoteRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Repos\\NoteRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\NoteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:51:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:40:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:28:29.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\Job Application Tracker\\Web.config",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Web.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\Job Application Tracker\\Web.config",
+              "RelativeToolTip": "Job Application Tracker\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-21T13:10:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Final project\\Job Application Tracker\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:11:30.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
