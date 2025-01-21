@@ -17,10 +17,12 @@ namespace DAL.EF.TableModels
         public DateTime DateApplied { get; set; }
         public string status { get; set; }
         public virtual ICollection<Note> AppId { get; set; }
+        public virtual ICollection<AppStatus> ApplicationId { get; set; }
 
         public Application()
         {
             AppId = new List<Note>();
+            ApplicationId = new List<AppStatus>();
         }
 
     }
